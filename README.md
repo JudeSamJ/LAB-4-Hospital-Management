@@ -11,6 +11,7 @@ This application provides a way to record this information and to access these i
 ![Screenshot 2023-10-20 140441](https://github.com/JudeSamJ/LAB-4-Hospital-Management/assets/118989352/08cc14f8-5fb4-48c1-8b8a-f8751d9fa3cb)
 ![Screenshot 2023-10-20 140545](https://github.com/JudeSamJ/LAB-4-Hospital-Management/assets/118989352/a8448645-31c5-464a-ae6c-0aef656f9604)
 ![Screenshot 2023-10-20 140617](https://github.com/JudeSamJ/LAB-4-Hospital-Management/assets/118989352/7e28227b-40e2-4f7b-b42c-f0f5c9ca803e)
+![Screenshot 2023-10-20 142049](https://github.com/JudeSamJ/LAB-4-Hospital-Management/assets/118989352/546692a7-c409-4945-8890-427ba1ad94bd)
 
 ### RESULT:
 Thus the Hospital management System project was executed and the output was verified.
